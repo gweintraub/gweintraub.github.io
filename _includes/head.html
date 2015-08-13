@@ -35,9 +35,9 @@
 	<!-- Twitter Summary card images must be at least 120x120px -->
 	<!-- <meta name="twitter:image" content="{{ site.url }}/img/meta.png"> -->
 	{% if page.image %}
-	  <meta name="twitter:image:src" content="{{ page.image }}">
+	  <meta name="twitter:image:src" content="http://www.gabeweintraub.com/img{{ page.image }}">
 	{% else %}
-	  <meta name="twitter:image:src" content="{{ img.meta.png | prepend: site.baseurl }}">
+	  <meta name="twitter:image:src" content="http://www.gabeweintraub.com{{ img.meta.png }}">
 	{% endif %}
 
 
@@ -61,9 +61,9 @@
 	  <meta content="http://www.gabeweintraub.com{{ page.url }}" property="og:url">
 	{% endif %}
 	{% if page.image %}
-	  <meta content="{{ page.image }}" property="og:image">
+	  <meta content="http://www.gabeweintraub.com/img{{ page.image }}" property="og:image">
 	{% else %}
-	  <meta content="{{ img/facebook.png | prepend: site.baseurl }}" property="og:image">
+	  <meta content="http://www.gabeweintraub.com{{ img/facebook.png }}" property="og:image">
 	{% endif %}
 
 </head>

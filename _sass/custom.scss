@@ -226,3 +226,26 @@ figcaption {
 .about h2 {
   color: #981B1E;
 }
+
+.about ul, li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.about ul {
+  margin: 2em 0;
+}
+
+.about li {
+  margin: 1em;
+  margin-left: 3em;
+}
+
+.about li:before {
+  content: '\f101';
+  font-family: 'FontAwesome';
+  float: left;
+  margin-left: -1.5em;
+  color: #981B1E;
+}

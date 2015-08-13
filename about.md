@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-<img src="/img/profile.png" alt="Profile image">
 <div class="resume">
-	<h2>Stuff About Me</h2>
+<img src="/img/profile.png" alt="Profile image">
+<h2>Stuff About Me</h2>
 
 <ul>
 	<li>I'm working on my master's degreen at NYU's Interactive Telecommunications Program. It's hard to explain, but it involves studying the very recently possible.</li>

@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<div class="resume">
+<div class="about">
 <img src="/img/profile.png" alt="Profile image">
 <h2>Stuff About Me</h2>
 

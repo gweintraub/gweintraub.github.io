@@ -4,7 +4,7 @@ title: About
 ---
 
 <img src="/img/profile.png" alt="Profile image">
-
+<div class="resume">
 <h2>Stuff About Me</h2>
 
 <ul>
@@ -16,3 +16,4 @@ title: About
 	<li>I watch a grotesque amount of hockey.</li>
 	<li>The Seasame Street character I most identify with is Oscar the Grouch.</li>
 </ul>
+</div>

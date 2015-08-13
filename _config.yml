@@ -1,0 +1,53 @@
+# Site settings
+title: Gabe Weintraub
+description: "Why are you reading this?"
+url: "http://www.gabeweintraub.com"
+author:
+  name: "Gabe Weintraub"
+  email: "gabe.weintraub+cf@gmail.com"
+  url: "http://www.gabeweintraub.com"
+
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /blog/:title
+paginate: 8
+paginate_path: /blog/page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+# Footer settings
+footer:
+  copyright: Gabe Weintraub
+  location:
+  social: Around the Web
+  credits: 
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/gabeweintraub
+  - title: instagram
+    url: https://instagram.com/gabeweintraub/
+  - title: linkedin
+    url: https://www.linkedin.com/in/gabeweintraub
+
+

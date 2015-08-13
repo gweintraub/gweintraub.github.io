@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article id="post-page">
+	<div class="post-headline"><h2>{{ page.title }}</h2></div>	
+	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	<div class="content">
+	<img src="{{ page.image }}" />	
+	
+		{{ content }}
+		
+	</div>
+</article>
+

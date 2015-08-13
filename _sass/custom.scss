@@ -1,0 +1,224 @@
+/*- Custom style -*/
+
+// -- Put custom style under this point -- //
+
+.post-headline h2 {
+	color: #981B1E;
+}
+
+#copyright {
+	font-family: 'Source Sans Pro', sans-serif;
+  	letter-spacing: 0.01em;
+  	font-weight: 400;
+}
+
+
+#credits {
+	font-size: .75em;
+	font-family: 'Source Sans Pro', sans-serif;
+  	letter-spacing: 0.01em;
+  	font-weight: 200;
+}
+
+#credits a{
+	font-weight: 200;
+}
+
+#credits a:hover {
+	text-decoration: underline;
+	color: #FDFDFD;
+}
+
+.resume h1 {
+	font-size: 1.5em;
+	color: #981B1E;
+	text-transform: uppercase;
+}
+
+.resume .resume_tier_1 {
+  position: relative;
+  list-style: none;
+  line-height: 1.2;
+  font-size: 80%;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.resume .resume_tier_2 {
+  list-style: none;
+  font-size: 90%;
+  margin-bottom: 10px;
+}
+
+
+// -- Form style -- //
+
+.floating-label-form-group {
+    position: relative;
+    margin-bottom: 0;
+    padding-bottom: .5em;
+    border-bottom: 1px solid #eee;
+}
+
+.floating-label-form-group input,
+.floating-label-form-group textarea {
+    z-index: 1;
+    position: relative;
+    padding-right: 0;
+    padding-left: 0;
+    border: 0;
+    border-radius: 0;
+    font-size: 1.5em;
+    background: 0 0;
+    box-shadow: none;
+    resize: none;
+    outline: 0;
+    width: 100%;
+}
+
+.floating-label-form-group label {
+    display: block;
+    z-index: 0;
+    position: relative;
+    top: 2em;
+    margin: 0;
+    font-size: .85em;
+    line-height: 1.764705882em;
+    vertical-align: middle;
+    vertical-align: baseline;
+    opacity: 0;
+    -webkit-transition: top .3s ease,opacity .3s ease;
+    -moz-transition: top .3s ease,opacity .3s ease;
+    -ms-transition: top .3s ease,opacity .3s ease;
+    transition: top .3s ease,opacity .3s ease;
+}
+
+
+.floating-label-form-group-with-value label {
+    top: 0;
+    opacity: 1;
+}
+
+.floating-label-form-group-with-focus label {
+    color: #981B1E;
+}
+
+
+form .row:first-child .floating-label-form-group {
+    border-top: 1px solid #eee;
+}
+
+.resume a {
+  text-decoration: none;
+  color: rgb(152,27,30);
+}
+
+.resume .resume_tier_1 a:hover {
+  text-decoration: underline;
+}
+
+.resume .resume-lists li {
+	padding-bottom: 5px;
+}
+
+.submit input {  
+    width: auto;  
+    padding: 9px 15px;  
+    background: rgb(76,77,79);
+    border: 0;  
+    font-size: 1em;  
+    color: #FFFFFF;  
+    } 
+
+.submit input:hover {
+  background: rgb(152,27,30);
+}
+
+
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px white inset;
+}
+
+
+// splash page //
+#splash {
+	margin: 30% auto 30%;
+	width: 100%;
+}
+
+.logo {
+    width:60%;
+    float:left;
+    
+}
+
+.logo img {
+	padding: 30px 0 0 0;
+	width: 85%;
+}
+
+.splash-menu {
+	width:40%;
+    float:right;
+    padding:10px;
+    padding-left: 35px;
+    border-left: rgb(76,77,79);
+    border-left-width: 1px;
+    border-left-style: solid;
+}
+
+.splash-menu ul {
+    margin-bottom: 0;
+
+}
+
+.splash-menu li{
+	list-style-type: none;
+	text-transform: uppercase;
+}
+
+.splash-menu li a:hover{
+	text-decoration: underline;
+}
+
+sup, sub {
+   vertical-align: baseline;
+   position: relative;
+   top: -0.4em;
+}
+
+.footnotes ol {
+  line-height: 1.5;
+}
+
+.footnotes ol li {
+  font-size: .7em;
+  margin-bottom: .5em;
+}
+
+.footnotes ol li p {
+  font-size: initial;
+  display: inline-block; 
+  vertical-align: text-top;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: rgb(76,77,79);
+    width: 75%;
+    margin-bottom: 1em;
+}
+
+figure {
+  margin-bottom: 1em;
+}
+
+figure img {
+  margin-bottom: 0;
+}
+
+figcaption {
+  font-size: .8em;
+  text-align: right;
+}

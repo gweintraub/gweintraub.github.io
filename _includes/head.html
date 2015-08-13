@@ -1,0 +1,69 @@
+<head>
+	<!-- Meta -->
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	<meta name="generator" content="Jekyll">
+
+	<title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+	{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+	<meta name="author" content="Gabe Weintraub">
+
+	<!-- CSS & fonts -->
+	<link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}">
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,400italic%7CSignika:700,300,400,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ "/css/font-awesome/css/font-awesome.min.css" }}">
+
+
+	<!-- RSS -->
+	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+
+	<!--Favicon-->
+	<link rel="shortcut icon" type="image/png" href="/favicon.png"/>
+	<link rel="shortcut icon" type="image/png" href="http://gabeweintraub.com/favicon.png"/>
+
+	<!--Lightbox-->
+	<link href="{{ "css/lightbox.css" | prepend: site.baseurl }}" rel="stylesheet">
+	
+
+	<!-- Twitter Card data -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@gabeweintraub">
+	<meta name="twitter:title" content="{{ page.title }}">
+	{% if page.description %}<meta name="twitter:description" content="{{ page.description }}">{% endif %}
+	<meta name="twitter:creator" content="@gabeweintraub">
+	<!-- Twitter Summary card images must be at least 120x120px -->
+	<!-- <meta name="twitter:image" content="{{ site.url }}/img/meta.png"> -->
+	{% if page.image %}
+	  <meta name="twitter:image:src" content="{{ page.image }}">
+	{% else %}
+	  <meta name="twitter:image:src" content="{{ img.meta.png | prepend: site.baseurl }}">
+	{% endif %}
+
+
+	<meta content="{{ site.title }}" property="og:site_name">
+	{% if page.title %}
+	  <meta content="{{ page.title }}" property="og:title">
+	{% else %}
+	  <meta content="{{ site.title }}" property="og:title">
+	{% endif %}
+	{% if page.title %}
+	  <meta content="article" property="og:type">
+	{% else %}
+	  <meta content="website" property="og:type">
+	{% endif %}
+	{% if page.description %}
+	  <meta content="{{ page.description }}" property="og:description">
+	{% else %}
+	  <meta content="{{ site.description }}" property="og:description">
+	{% endif %}
+	{% if page.url %}
+	  <meta content="{{ page.url | prepend: site.baseurl }}" property="og:url">
+	{% endif %}
+	{% if page.image %}
+	  <meta content="{{ page.image }}" property="og:image">
+	{% else %}
+	  <meta content="{{ img/facebook.png | prepend: site.baseurl }}" property="og:image">
+	{% endif %}
+
+</head>

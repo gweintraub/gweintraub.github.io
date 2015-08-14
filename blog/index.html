@@ -10,7 +10,7 @@ layout: default
 	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
 	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
 	  	<!-- <p>{{ post.content | strip_html | truncatewords:50 }}</p> -->
-	  	<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}"> {%if page.image %}<img src="{{ page.image }}" />{% endif%}</a>
+	  	<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}"> <img src="{{ post.image }}" /></a>
 	  	<p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | remove: '<img>' }}<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}"> &raquo; </a></p>
 
 	  </li>

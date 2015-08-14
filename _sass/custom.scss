@@ -251,12 +251,12 @@ figcaption {
 
 
 
-figure {
+.portfolio-image {
   position: relative;
   display: inline-block;
 }
 
-figure img {
+.portfolio-image img {
   vertical-align: top;
 }
 
@@ -283,12 +283,12 @@ figure img {
   color: #fff;
 }
 
-figure img:hover .magnifying-glass-icon {
+.portfolio-image:hover .magnifying-glass-icon {
   opacity: 1;
 }
 
 @media only screen and (max-width: 400px) {
-  figure {
+  .portfolio-image {
     display: block;
   }
 }

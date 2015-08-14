@@ -95,7 +95,7 @@ In powder-bed or ColorJet Printing (CJP), the machine prints by spreading a thin
 <figcaption>The final, lifesize print. Produced on a Z Corp ZPrint 650.</figcaption>
 </figure>
 
-The end result from a powder print like this is essentially a piece of ceramic,<sup><a href="#fn7" id="fn7"></a></sup> but in the interest of making the finished piece feel as much like a real basketball as possible, I applied a thin coating of soft-touch rubber to the surface. Combined with the pebbled leather, it's actually a pretty good grip, and it has a familiar hand feel.
+The end result from a powder print like this is essentially a piece of ceramic,<sup><a href="#fn7" id="fn7"></a>7</sup> but in the interest of making the finished piece feel as much like a real basketball as possible, I applied a thin coating of soft-touch rubber to the surface. Combined with the pebbled leather, it's actually a pretty good grip, and it has a familiar hand feel.
 
 <h3>Final Thoughts</h3>
 I'm a tactile learner, so throughout this project I was excited by the prospect of being able to hold the data in my hands. As it stands, a model like this isn't hugely useful in terms of analytics, but to me at least, the tangible element is very compelling.

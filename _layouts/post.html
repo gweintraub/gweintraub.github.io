@@ -6,6 +6,7 @@ layout: default
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
 	{%if page.image %}<a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}"> <img src="{{ page.image }}" /></a>{% endif%}
+
 	
 		{{ content }}
 		

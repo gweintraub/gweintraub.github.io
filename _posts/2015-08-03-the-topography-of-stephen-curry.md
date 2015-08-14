@@ -10,6 +10,8 @@ Data collection and data analysis are both enormous parts of the modern professi
 <a href="https://lh3.googleusercontent.com/CSGV_1WJU4E9aaTF_daZnFgaUopvXtE5pXuqXdXgZOA=w600-h310-no" data-lightbox="SportVU" data-title="A play animated using data collected by SportVU. <em>Source: NBA</em>">
 <img src="https://lh3.googleusercontent.com/CSGV_1WJU4E9aaTF_daZnFgaUopvXtE5pXuqXdXgZOA=w600-h310-no" alt="Sample SportVU animation" title="A play animated using data collected by SportVU. Source: NBA"> 
 </a>
+<div class="overlay">
+<a href="https://lh3.googleusercontent.com/CSGV_1WJU4E9aaTF_daZnFgaUopvXtE5pXuqXdXgZOA=w600-h310-no" class="magnifying-glass-icon foobox"><i class="fa fa-search"></i></a>
 <figcaption>A play animated using data collected by SportVU. <em>Source: NBA</em></figcaption>
 </figure>
 

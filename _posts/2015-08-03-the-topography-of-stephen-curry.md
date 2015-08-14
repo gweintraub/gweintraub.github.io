@@ -7,14 +7,10 @@ description: Created for a class called Sculpting Data into Everyday Objects, Th
 Data collection and data analysis are both enormous parts of the modern professional sports industry. During every NBA basketball game, for example, cameras track and record the exact position of every player, plus the ball, 25 times per second. The result is several terabytes worth of X, Y, Z coordinates and an unprecedented level of insight into the nuances of professional basketball. The NBA, in partnership with STATS LLC., calls the system SportVU, and even after two full seasons of league-wide use it remains an absolutely staggering tool. This project is an attempt to visualize a tiny fraction of that data. 
 
 <figure>
-<div class="portfolio-image">
 <a href="https://lh3.googleusercontent.com/CSGV_1WJU4E9aaTF_daZnFgaUopvXtE5pXuqXdXgZOA=w600-h310-no" data-lightbox="SportVU" data-title="A play animated using data collected by SportVU. <em>Source: NBA</em>">
 <img src="https://lh3.googleusercontent.com/CSGV_1WJU4E9aaTF_daZnFgaUopvXtE5pXuqXdXgZOA=w600-h310-no" alt="Sample SportVU animation" title="A play animated using data collected by SportVU. Source: NBA"> 
 </a>
-<div class="overlay">
-<a href="https://lh3.googleusercontent.com/CSGV_1WJU4E9aaTF_daZnFgaUopvXtE5pXuqXdXgZOA=w600-h310-no" class="magnifying-glass-icon foobox"><i class="fa fa-search"></i></a>
 <figcaption>A play animated using data collected by SportVU. <em>Source: NBA</em></figcaption>
-</div>
 </figure>
 
 Created for a class called "Sculpting Data into Everyday Objects," <em>The Topography of Stephen Curry</em> is a 3D-printed visualization of every shot attempted by Golden State Warriors point guard Stephen Curry during his 2014/15 MVP season.<sup><a href="#fn1" id="ref1">1</a></sup> Starting by scraping the raw data from the Internet, then interpolating success rates at each point on the court, I produced a shooting "heat map," which was further used to algorithmically generate a computer-modeled basketball as though it were being selectively deflated in specific regions, essentially creating a topographical map of a basketball court, with elevation corresponding to shooting frequency and success rates from a given position. The final piece has been 3D-printed using ColorJet Printing technology to produce a life-size basketball in full color and detail.

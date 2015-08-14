@@ -5,7 +5,7 @@ layout: default
 	<div class="post-headline"><h2>{{ page.title }}</h2></div>	
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
-	<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}"> {%if post.image %}<img src="{{ post.image }}" />{% endif%}</a>
+	{%if page.image %}<a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}"> <img src="{{ page.image }}" /></a>{% endif%}
 	
 		{{ content }}
 		

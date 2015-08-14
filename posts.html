@@ -9,14 +9,8 @@ layout: default
 	  <li class="post">
 	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
 	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
-<<<<<<< HEAD
-
-	  	{%if page.image %}<a href="/blog/{{ post.url }}"><img src="{{ page.image }}" /></a>{% endif%}
-	  	
-=======
-	  	<!-- <p>{{ post.content | strip_html | truncatewords:50 }}</p> -->
+	  	{%if post.image %}<a href="/blog/{{ post.url }}"><img src="{{ post.image }}" /></a>{% endif%}
 	  	<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}"> <img src="{{ post.image }}" /></a>
->>>>>>> parent of 8ae42fe... what happened to the pictures?
 	  	<p>{{ post.excerpt | remove: '<p>' | remove: '</p>' | remove: '<img>' }}<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}"> &raquo; </a></p>
 
 	  </li>

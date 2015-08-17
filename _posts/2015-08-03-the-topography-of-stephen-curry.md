@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Topography of Stephen Curry
-image: /img/2015-08-03-The-Topography-of-Stephen-Curry.jpg
+image: /img/2015-08-03-The-Topography-of-Stephen-Curry.png
 description: Created for a class called Sculpting Data into Everyday Objects, The Topography of Stephen Curry is a 3D-printed visualization of every shot attempted by Golden State Warriors point guard Stephen Curry during his 2014/15 MVP season.
 ---
 Data collection and data analysis are both enormous parts of the modern professional sports industry. During every NBA basketball game, for example, cameras track and record the exact position of every player, plus the ball, 25 times per second. The result is several terabytes worth of X, Y, Z coordinates and an unprecedented level of insight into the nuances of professional basketball. The NBA, in partnership with STATS LLC., calls the system SportVU, and even after two full seasons of league-wide use it remains an absolutely staggering tool. This project is an attempt to visualize a tiny fraction of that data. 

@@ -78,13 +78,22 @@ Next, I created the pebbled leather texture on the surface of the ball. It's pre
 With the texture in place, I could finally start printing actual objects. Below is a trial print in ABS plastic. It's three inches in diameter (about 31% of a real basketball's 9.55 inch diameter), which wound up being too small to get any discernable detail in the surface texture.
 
 <figure>
-<a href="https://lh3.googleusercontent.com/4uWzxgR_2-nHQviOWVDLPB6pDhMB3VQxtjzvitWqpVk=w2148-h1610-no" data-lightbox="ABSball" data-title="Model printed in ABS plastic at 31% scale.">
+<a href="https://lh3.googleusercontent.com/4uWzxgR_2-nHQviOWVDLPB6pDhMB3VQxtjzvitWqpVk=w2148-h1610-no" data-lightbox="ABSball" data-title="The final design printed in ABS plastic at 31% scale.">
 <img src="https://lh3.googleusercontent.com/4uWzxgR_2-nHQviOWVDLPB6pDhMB3VQxtjzvitWqpVk=w2148-h1610-no" alt="Ball printed in ABS plastic at 31% scale." title="Model printed in ABS plastic at 31% scale.">
 </a>
 <figcaption>Basketball in ABS plastic at 31% scale. Printed using a Stratasys Fortus 250mc.</figcaption>
 </figure>
 
 The ABS model was printed on a Stratasys Fortus 250mc, which prints using a method called Fused Deposition Modeling (FDM). If you've ever seen a MakerBot work then you're familiar with FDM printing; FDM printers work by extruding a thin molten filament along tightly defined paths to form layers that build up the model. For many people, FDM is basically synonymous with 3D printing, but it's actually just one of a wide range of fabrication techniques, and in order to print my final model at life scale, I switched to a different printing technology.
+
+As the final step before printing the real thing, I digitally painted the model to look like a basketball.
+
+<figure>
+<a href="https://lh3.googleusercontent.com/2E8RjKc2Kl-6UPuawPQQ2sGHxkf7Yckk3RU_YRxIgHE=w1000-h643-no" data-lightbox="Painted model" data-title="A full-color rendering of the finished product. Painted using ZBrush.">
+	<img src="https://lh3.googleusercontent.com/2E8RjKc2Kl-6UPuawPQQ2sGHxkf7Yckk3RU_YRxIgHE=w1000-h643-no" alt="Full-color rendering" title="A full-color rendering of the finished product. Painted using ZBrush.">
+</a>
+<figcaption>A full-color rendering of the finished product. Painted using ZBrush.</figcaption>
+</figure>
 
 In powder-bed or ColorJet Printing (CJP), the machine prints by spreading a thin layer of a powderized printing material over the entire surface of the print bed. Once the powder is spread, a print head spreads a liquid binding agent over the cross-sectional area of the layer, hardening the material and fusing it to the layers beneath. Another layer of power is then spread on top, and the process repeats. In addition to generally being faster and cheaper than FDM printing, by mixing traditional printer ink with the binding agent, powder printers are able to print in the full CMYK color spectrum (up to 6 million colors). My final, lifesize model was printed using a Z Corp ZPrint 650.<sup><a href="#fn6" id="ref6">6</a></sup>
 
@@ -96,6 +105,24 @@ In powder-bed or ColorJet Printing (CJP), the machine prints by spreading a thin
 </figure>
 
 The end result from a powder print like this is essentially a piece of ceramic,<sup><a href="#fn7" id="fn7">7</a></sup> but in the interest of making the finished piece feel as much like a real basketball as possible, I applied a thin coating of soft-touch rubber to the surface. Combined with the pebbled leather, it's actually a pretty good grip, and it has a familiar hand feel.
+
+Here are a few more angles of the finished product.
+
+<a href="https://lh3.googleusercontent.com/HPOMkIzeimdbS6HbqFLrJMIMH49dUgcjMrlbxk8YsLU=w1000-h664-no" data-lightbox="Final2">
+	<img src="https://lh3.googleusercontent.com/HPOMkIzeimdbS6HbqFLrJMIMH49dUgcjMrlbxk8YsLU=w1000-h664-no" alt="Finished product 2" title="Finished product, 2">
+</a>
+
+<a href="https://lh3.googleusercontent.com/J-QfSFCzAZRvTXTFTt8RImlhlbg-vfB5BLY8ne6g_5A=w1000-h664-no" data-lightbox="Final3">
+	<img src="https://lh3.googleusercontent.com/J-QfSFCzAZRvTXTFTt8RImlhlbg-vfB5BLY8ne6g_5A=w1000-h664-no" alt="Finished product 3" title="Finished product, 3">
+</a>
+
+<a href="https://lh3.googleusercontent.com/dKP4JHRhb8JMGah-OJQvJcX_1KZe3slPVJdtMVMDWfg=w1000-h664-no" data-lightbox="Final4">
+	<img src="https://lh3.googleusercontent.com/dKP4JHRhb8JMGah-OJQvJcX_1KZe3slPVJdtMVMDWfg=w1000-h664-no" alt="Finished product 4" title="Finished product, 4">
+</a>
+
+<a href="https://lh3.googleusercontent.com/hHlLphuULjXLnrmJupI0iSYCqpn6HVLpiGxKUpRbivw=w1000-h664-no" data-lightbox="Final5">
+	<img src="https://lh3.googleusercontent.com/hHlLphuULjXLnrmJupI0iSYCqpn6HVLpiGxKUpRbivw=w1000-h664-no" alt="Finished product 5" title="Finished product, 5">
+</a>
 
 <h3>Final Thoughts</h3>
 I'm a tactile learner, so throughout this project I was excited by the prospect of being able to hold the data in my hands. As it stands, a model like this isn't hugely useful in terms of analytics, but to me at least, the tangible element is very compelling.

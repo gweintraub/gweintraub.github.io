@@ -75,7 +75,7 @@ Next, I created the pebbled leather texture on the surface of the ball. It's pre
 <figcaption>Sculpting the leathery texture onto the ball using Mudbox.</figcaption>
 </figure>
 
-With the texture in place, I could finally start printing actual objects. Below is a trial print in ABS plastic. It's three inches in diameter (about 31% of a real basketball's 9.55 inch diameter), which wound up being too small to get any discernable detail in the surface texture.
+With the texture in place, I could finally start printing actual objects. Below is a trial print in ABS plastic. It's three inches in diameter (about 31% of a real basketball's 9.55 inch diameter), which wound up being too small to get any discernible detail in the surface texture.
 
 <figure>
 <a href="https://lh3.googleusercontent.com/4uWzxgR_2-nHQviOWVDLPB6pDhMB3VQxtjzvitWqpVk=w2148-h1610-no" data-lightbox="ABSball" data-title="The final design printed in ABS plastic at 31% scale.">
@@ -95,7 +95,7 @@ As the final step before printing the real thing, I digitally painted the model,
 <figcaption>A full-color rendering of the finished product. Painted using ZBrush.</figcaption>
 </figure>
 
-In powder-bed or ColorJet Printing (CJP), the machine prints by spreading a thin layer of a powderized printing material over the entire surface of the print bed. Once the powder is spread, a print head spreads a liquid binding agent over the cross-sectional area of the layer, hardening the material and fusing it to the layers beneath. Another layer of power is then spread on top, and the process repeats. In addition to generally being faster and cheaper than FDM printing, by mixing traditional printer ink with the binding agent, powder printers are able to print in the full CMYK color spectrum (up to 6 million colors). My final, lifesize model was printed using a Z Corp ZPrint 650.<sup><a href="#fn6" id="ref6">6</a></sup>
+In powder-bed or ColorJet Printing (CJP), the machine prints by spreading a thin layer of a powderized printing material over the entire surface of the print bed. Once the powder is spread, a print head spreads a liquid binding agent over the cross-sectional area of the layer, hardening the material and fusing it to the layers beneath. Another layer of power is then spread on top, and the process repeats. In addition to generally being faster and cheaper than FDM printing, by mixing traditional printer ink with the binding agent, powder printers are able to print in the full CMYK color spectrum (up to 6 million colors). My final, life-size model was printed using a Z Corp ZPrint 650.<sup><a href="#fn6" id="ref6">6</a></sup>
 
 <figure>
 <a href="https://lh3.googleusercontent.com/MF6EJoAe6mN7cu8gy_Iz_tFwGYrxwGaz0NbfaEsjF6s=w2148-h1610-no" data-lightbox="Final1" data-title="The final, lifesize print. Produced on a Z Corp ZPrint 650.">

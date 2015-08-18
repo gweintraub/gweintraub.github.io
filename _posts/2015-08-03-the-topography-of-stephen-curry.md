@@ -86,7 +86,7 @@ With the texture in place, I could finally start printing actual objects. Below 
 
 The ABS model was printed on a Stratasys Fortus 250mc, which prints using a method called Fused Deposition Modeling (FDM). If you've ever seen a MakerBot work then you're familiar with FDM printing; FDM printers work by extruding a thin molten filament along tightly defined paths to form layers that build up the model. For many people, FDM is basically synonymous with 3D printing, but it's actually just one of a wide range of fabrication techniques, and in order to print my final model at life scale, I switched to a different printing technology.
 
-As the final step before printing the real thing, I digitally painted the model to look like a basketball.
+As the final step before printing the real thing, I digitally painted the model, again trying to make it look as lifelike as possible.
 
 <figure>
 <a href="https://lh3.googleusercontent.com/2E8RjKc2Kl-6UPuawPQQ2sGHxkf7Yckk3RU_YRxIgHE=w1000-h643-no" data-lightbox="Painted model" data-title="A full-color rendering of the finished product. Painted using ZBrush.">

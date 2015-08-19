@@ -1,15 +1,15 @@
 ---
 layout: post
 title: More 4-Axis Milling
-img: /img/2015-08-18-more-4-axis-milling.png
+image: /img/2015-08-18-more-4-axis-milling.png
 description: Another round with the Roland 4-axis mill, this time with a more complex, more original model. Unlike my first attempts, which were just excuses to get machining as soon as possible, the goal this time was to produce something resembling a finished piece. I didn't really have a specific part in mind, so this model is a result of just experimenting with unfamiliar CAD functions, although it is very loosely based on the heatsink of an LED lightbulb.
 ---
 
 Another round with the Roland 4-axis mill, this time with a more complex, more original model. Unlike my first attempts, which were just excuses to get machining as soon as possible, the goal this time was to produce something resembling a finished piece. I didn't really have a specific part in mind, so this model is a result of just experimenting with unfamiliar CAD functions, although it is very loosely based on the heatsink of an LED lightbulb.
 
 <figure>
-<a href="https://lh3.googleusercontent.com/Iu_NDd9IRINB1vHUiIvqmk2TzpjXce8TtqrubuDshbM=w1847-h1441-no" data-lightbox="Vectorworks Model" data-title="My starting model, produced in Vectorworks. It was a good excuse to learn to use array functions.">
-	<img src="https://lh3.googleusercontent.com/Iu_NDd9IRINB1vHUiIvqmk2TzpjXce8TtqrubuDshbM=w1847-h1441-no" alt="Vectorworks Model" title="My starting model, produced in Vectorworks. It was a good excuse to learn to use array functions.">
+<a href="hhttps://lh3.googleusercontent.com/Pf05W0wslLMNDfwCb6zrza2bSocEs-rI4TjiacACucQ=w1847-h1361-no" data-lightbox="Vectorworks Model" data-title="My starting model, produced in Vectorworks. It was a good excuse to learn to use array functions.">
+	<img src="hhttps://lh3.googleusercontent.com/Pf05W0wslLMNDfwCb6zrza2bSocEs-rI4TjiacACucQ=w1847-h1361-no" alt="Vectorworks Model" title="My starting model, produced in Vectorworks. It was a good excuse to learn to use array functions.">
 </a>
 <figcaption>My starting model, produced in Vectorworks. It was a good excuse to learn to use array functions.</figcaption>
 </figure>

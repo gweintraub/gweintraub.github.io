@@ -22,10 +22,10 @@ For context, and for anyone reading this who doesn't follow basketball, Steph Cu
 The NBA doesn't make raw SportVU data publicly available, but manually extracting the bits I wanted was fairly straightforward. I scraped my data from <a href="www.basketball-reference.com">Basketball Reference</a>, but the same process works using the NBA's own site.<sup><a href="#fn3" id="ref3">3</a></sup> 
 
 <figure>
-<a href="https://lh3.googleusercontent.com/fVvYytk1B86fBwK62A9p9zsyEf1bDw3innGB_9xWOF8=w1960-h1520-no" data-lightbox="Visualization1" data-title="My initial attempt at vizualizing the shooting data, using discrete data points instead of interpolated values.">
-<img src="https://lh3.googleusercontent.com/fVvYytk1B86fBwK62A9p9zsyEf1bDw3innGB_9xWOF8=w1960-h1520-no" alt="Initial attempt to vizualize using discrete data points" title="My initial attempt at vizualizing the shooting data, using discrete data points instead of interpolated values.">
+<a href="https://lh3.googleusercontent.com/fVvYytk1B86fBwK62A9p9zsyEf1bDw3innGB_9xWOF8=w1960-h1520-no" data-lightbox="Visualization1" data-title="My initial attempt at visualizing the shooting data, using discrete data points instead of interpolated values.">
+<img src="https://lh3.googleusercontent.com/fVvYytk1B86fBwK62A9p9zsyEf1bDw3innGB_9xWOF8=w1960-h1520-no" alt="Initial attempt to visualize using discrete data points" title="My initial attempt at visualizing the shooting data, using discrete data points instead of interpolated values.">
 </a>
-<figcaption>My initial attempt at vizualizing the discrete data points. Produced using Rhino Python.</figcaption>
+<figcaption>My initial attempt at visualizing the discrete data points. Produced using Rhino Python.</figcaption>
 </figure>
 
 Above is my initial attempt at visualization. Early on, rather than a complete collection of all 1341 individual shot attempts, I borrowed a model from Peter Beshai's excellent <a href="http://peterbeshai.com/buckets/app/#/playerView/201939_2014"> Buckets app</a>, where data points are also scaled to reflect success rates from that position. In this model, which I created using a Rhino Python script, the height of each data point represents success rate relative to the league average from that position. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visualizing NYC (And Some Mutilated Animals)
+title: Visualizing NYC (And Mutilated Animals)
 description: Assignment for Data Visualization From 2D To 4D
 ---
 
@@ -12,7 +12,7 @@ Using the Socrata Open Data API to sift through NYC Open Data, I collected parki
 
 Ultimately, I had some trouble using D3 with the vehicle makes, so I held off on visualizing the vehicle information and just made a chart illustrating violations cited based on days of the week. It tells us very little about post-Eric Garner policing, but I used the Mets' colors, which just felt right.
 
-<iframe width="100%" height="500" src="//jsfiddle.net/xyeu4b66/1/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="600" src="//jsfiddle.net/xyeu4b66/1/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 ***
 

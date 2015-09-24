@@ -12,10 +12,10 @@ Using the Socrata Open Data API to sift through NYC Open Data, I collected parki
 
 Ultimately, I had some trouble using D3 with the vehicle makes, so I held off on visualizing the vehicle information and just made a chart illustrating violations cited based on days of the week. It tells us very little about post-Eric Garner policing, but I used the Mets' colors, which just felt right.
 
-<iframe width="100%" height="auto" src="//jsfiddle.net/xyeu4b66/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="100%" src="//jsfiddle.net/xyeu4b66/embedded/result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 ***
 
-Largely unrelated: There's a fairly distressing dataset available of animals found decapitated across the city. Using BatchGeo I mapped out their locations and included the grisly data. Somewhat disappointingly, they didn't form a giant pentagram or anything. I expected better from New York's cultists.
+Largely unrelated: There's a fairly distressing dataset available of animals found decapitated across the city. Using <a href="https://batchgeo.com/">BatchGeo</a> I mapped out their locations and included the grisly data. Somewhat disappointingly, they didn't form a giant pentagram or anything. I expected better from New York's cultists.
 
 <p><iframe src="//batchgeo.com/map/aecd4fe751fea9cf3aaf5ca70c4a4147" frameborder="0" width="100%" height="550" style="border:1px solid #aaa;"></iframe></p><p><small>View <a href="https://batchgeo.com/map/aecd4fe751fea9cf3aaf5ca70c4a4147">Decapitated Animals</a> in a full screen map</small></p>

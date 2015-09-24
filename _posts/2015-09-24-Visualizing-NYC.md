@@ -16,6 +16,6 @@ Ultimately, I had some trouble using D3 with the vehicle makes, so I held off on
 
 ***
 
-Largely unrelated: There's a fairly distressing dataset available of animals found decapitated across the city. Using <a href="https://batchgeo.com/">BatchGeo</a> I mapped out their locations and included the grisly data. Somewhat disappointingly, they didn't form a giant pentagram or anything. I expected better from New York's cultists.
+Largely unrelated: There's a fairly distressing dataset available of animals found decapitated across the city. <a href="http://uselesspress.org/things/decapitated-animals-dataset/">Useless Press</a> has all the data conveniently available. Using <a href="https://batchgeo.com/">BatchGeo</a> I mapped out their locations and included the grisly data. Somewhat disappointingly, they didn't form a giant pentagram or anything. I expected better from New York's cultists.
 
 <p><iframe src="//batchgeo.com/map/aecd4fe751fea9cf3aaf5ca70c4a4147" frameborder="0" width="100%" height="550" style="border:1px solid #aaa;"></iframe></p><p><small>View <a href="https://batchgeo.com/map/aecd4fe751fea9cf3aaf5ca70c4a4147">Decapitated Animals</a> in a full screen map</small></p>

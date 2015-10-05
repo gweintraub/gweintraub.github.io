@@ -2,7 +2,7 @@
 layout: post
 title: Regex Golf Needs More Rules
 description: The regex is hard. But the interface is harder.
-img: https://imgs.xkcd.com/comics/regex_golf.png
+image: https://imgs.xkcd.com/comics/regex_golf.png
 ---
 
 The only real rules provided for <a href="https://regex.alf.nu/">Regex Golf</a> are "Type a regex in the box. You get ten points per match (or lose ten, if you match something you shouldn't); each character costs one point." That seems fairly straight forward, until suddenly it isn't. 

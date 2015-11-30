@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Winds of WinterBot
+title: The Winds of WinterBot. Because Someone Has To Write It
 image: 
 description: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Winds of WinterBot. Because Someone Has To Write It
-image: 
+image: /img/2015-11-30-winds-of-winter.jpg
 description: 
 ---
 

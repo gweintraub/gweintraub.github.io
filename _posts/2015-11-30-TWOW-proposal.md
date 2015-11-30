@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Winds of WinterBot\: Because Someone Has To Write It
+title: The Winds of WinterBot
 image: 
 description: 
 ---
@@ -16,5 +16,3 @@ My proposal is to use the existing corpus of Martin's previous books as a basis 
 This has a few potential forms, depending on what results I have success in creating. Ideally, I'd like the <code>TWOWbot</code> to capture the tone of Martin's previous work (something Olde English sounding). If that's possible then <code>TWOWbot</code> will produce "quotes," likely assigned to point-of-view characters (utilizing my previous TF-IDF analysis of the books). Failing that, I'd like the bot to capture another part of Martin's sensability: his relentless plot twists (and willingness to murder beloved characters). In this case I'd like each tweet to summarize some sort of plot twist. This seems model seems to lend itself to using context-free grammars.
 
 And we're off.
-
-&1F44D;

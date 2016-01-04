@@ -15,6 +15,6 @@ title: About
 	<li>I'm generally happiest exhausted and covered in sawdust.</li>
 	<li>Creatively, I spend most of my time asking, “What does this button do?” and having asked so many times, I’ve come to appreciate really good buttons.</li>
 	<li>I watch a grotesque amount of hockey.</li>
-	<li>The Seasame Street character I most identify with is Oscar the Grouch.</li>
+	<li>The Sesame Street character I most identify with is Oscar the Grouch.</li>
 </ul>
 </div>

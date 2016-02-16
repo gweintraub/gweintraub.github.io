@@ -63,8 +63,8 @@ From there it was on to figuring out a chassis. Unfortunately that section was r
 And the end verdict? It rolls!
 
 <figure>
-<a href="https://photos.google.com/photo/AF1QipNdB-9qcHlEKDGLnkZupWr0PdAcHRye2EuIsG_O" data-lightbox="Wheels on chassis" data-title="The finished assembly.">
-	<img src="https://photos.google.com/photo/AF1QipNdB-9qcHlEKDGLnkZupWr0PdAcHRye2EuIsG_O" alt="Wheels on chassis" title="The finished assembly.">
+<a href="https://lh3.googleusercontent.com/qpq1wkO-uzCuKT5EClyIoNNPLwVfKwMjoUm3ZwZGZHtvTJNfhEMgZCJy308FIEKanie2PKlAP7hPIGttAU3FB83sXSE8q8Gaom-S5T4MeBpCagyj1Yl0mdbEF5LtbqfjqVe5ARMX4HyPs4kAOS-QMNI_W_yYPyzJR39pPxTCbsKfz5Gh2-DvN9S2xBZ_YqEZS5TGdM8QJkFbgy2erTfs_LQZiXcu9bA89r2EArZBWhOctaBrdlAZqFLZ0SX-W_Xpmf2muim7b0DCaOWU3huLfNufjmu5qnkJQvcU7kgtv11ZjA-Y7O79IWGD5R6twCcZg-0oW_deCTsN7EWABGuzVjmSGKBLGJYOSCl_GXIaCZSbEjU6fKYXmQElpqKyYElzSO0En52HnFQGe91-4SPrGPWukFCUFlASQdoiLNJMOdp0ogGY3Qool5zhTeCpBkRHT5KU6X8FM8oRaTmTrhd06wahpRqS84mi9HX2pYlP2YzxznZHxjNIQQMSbxD5TAKEVchSkOSkaixQ0e7mOk3fyF_NdZgR_x_5_rasaGU-uHjCxexnZijIpPVOO3dwXDifycVb=s1610-no" data-lightbox="Wheels on chassis" data-title="The finished assembly.">
+	<img src="https://lh3.googleusercontent.com/qpq1wkO-uzCuKT5EClyIoNNPLwVfKwMjoUm3ZwZGZHtvTJNfhEMgZCJy308FIEKanie2PKlAP7hPIGttAU3FB83sXSE8q8Gaom-S5T4MeBpCagyj1Yl0mdbEF5LtbqfjqVe5ARMX4HyPs4kAOS-QMNI_W_yYPyzJR39pPxTCbsKfz5Gh2-DvN9S2xBZ_YqEZS5TGdM8QJkFbgy2erTfs_LQZiXcu9bA89r2EArZBWhOctaBrdlAZqFLZ0SX-W_Xpmf2muim7b0DCaOWU3huLfNufjmu5qnkJQvcU7kgtv11ZjA-Y7O79IWGD5R6twCcZg-0oW_deCTsN7EWABGuzVjmSGKBLGJYOSCl_GXIaCZSbEjU6fKYXmQElpqKyYElzSO0En52HnFQGe91-4SPrGPWukFCUFlASQdoiLNJMOdp0ogGY3Qool5zhTeCpBkRHT5KU6X8FM8oRaTmTrhd06wahpRqS84mi9HX2pYlP2YzxznZHxjNIQQMSbxD5TAKEVchSkOSkaixQ0e7mOk3fyF_NdZgR_x_5_rasaGU-uHjCxexnZijIpPVOO3dwXDifycVb=s1610-no" alt="Wheels on chassis" title="The finished assembly.">
 </a>
 <figcaption>The finished assembly.</figcaption>
 </figure>

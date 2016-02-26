@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CTRL-ALT-ESCapement
-image:
+image: /img/2016-02-26-CTRL-ALT-ESCapement.jpg
 ---
 
 I've been working on fabricating a wheeled mechanism for Reinventing the Wheel, and it's been... an adventure. I've been trying to make an escapement mechanism, but I haven't been able to find a proper name for this thing; the initial references that I've seen called it a controlled output escapement, but I can't find any other mentions of this sort of machine. Either way, [this](https://farm2.staticflickr.com/1602/24290979394_71fb96bd8a_b.jpg) is my reference inspiration An escapement uses a continuously rotating driver to actuate a follower at consistent intervals, in this case 90&ordm; at a time.

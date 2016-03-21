@@ -50,4 +50,5 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/gabeweintraub
 
-
+sass:
+    style: :compressed

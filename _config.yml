@@ -49,6 +49,8 @@ social:
     url: https://instagram.com/gabeweintraub/
   - title: linkedin
     url: https://www.linkedin.com/in/gabeweintraub
+  - title: github
+    url: https://github.com/gweintraub
 
 sass:
     style: :compressed

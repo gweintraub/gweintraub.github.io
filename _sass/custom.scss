@@ -259,6 +259,7 @@ figcaption {
   overflow: hidden;
   width: 100%;
   margin-bottom: 2em;
+  margin-top: 2em;
 }
 
 .box img {
@@ -337,14 +338,4 @@ figcaption {
   opacity: 1;
   transform: translateX(0px);
   -webkit-transform: translateX(0px);
-}
-
-.crop-height {
-  width: 100%;
-  height: 300px;
-  overflow: hidden;
-}
-
-.crop-height img {
-  width: 100%
 }

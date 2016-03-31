@@ -336,3 +336,28 @@ figcaption {
   transform: translateX(0px);
   -webkit-transform: translateX(0px);
 }
+
+.crop-height {
+  /* max-width: 100%; /* native or declared width of img src (if known) */
+  max-height: 300px;
+  overflow: hidden; }
+
+img.scale {
+  /* corrects small inline gap at bottom of containing div */
+  display: block; 
+  width: 100%; /* corrects obscure Firefox bug */
+  max-width: 100%;
+  /* just in case, to force correct aspect ratio */
+  height: auto !important;
+  display: block; /* corrects small inline gap at bottom of containing div */
+  width: 100% /* corrects obscure Firefox bug */
+  max-width: 100%;
+  /* just in case, to force correct aspect ratio */
+  height: auto !important;
+  /*width: auto\9; 
+  /* ie8+9 - use modernizr instead of this \9 hack */
+  /* lt ie8 */
+  -ms-interpolation-mode: bicubic;
+  /* optionally force a minimum size if img src size is known: */
+  /* min-height: 300px; /* max-height of .crop-height */
+  /* min-width: 100%; /* proportional to above */ }

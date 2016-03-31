@@ -289,6 +289,10 @@ figcaption {
   border-radius: 4px;
 }
 
+.box .overbox a {
+  color: #fff;
+}
+
 .box:hover .overbox { 
   opacity: .75; 
 }
@@ -305,7 +309,7 @@ figcaption {
 }
 
 .box .title {
-  font-size: 2.5em;
+  font-size: 2em;
   text-transform: uppercase;
   opacity: 0;
   transition-delay: 0.1s;

@@ -271,7 +271,7 @@ figcaption {
 }
 
 .box .overbox {
-  background-color: #981B1E;
+  background-color: rgba(152,27,30,.75);
   position: absolute;
   top: 0;
   left: 0;
@@ -294,7 +294,7 @@ figcaption {
 }
 
 .box:hover .overbox { 
-  opacity: .75; 
+  opacity: 1; 
 }
 
 .box .overtext {

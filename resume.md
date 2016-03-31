@@ -31,7 +31,7 @@ title: Resume
 					<li><strong>Model Maker &amp; Production Technician</strong>, <a href="http://www.nrml.com">Normal</a>, New York, New York, <small>August 2014 - Present</small></li>
 					<li>
 						<ul class="resume_tier_2">
-							<li>Original team member, worked on design and manufacturing of 3D-printed, custom-fit earphones.</li>
+							<li>Early team member, worked on design and manufacturing of 3D-printed, custom-fit earphones.</li>
 							<li>Optimized logistics for mass production, including part-tracking and shipping.</li> 
 							<li>Refined manufacturing processes and produced measurable improvements in production time.</li>
 					</ul>
@@ -44,8 +44,9 @@ title: Resume
 					<li><strong>Junior UI/UX Designer</strong>, <a href="http://www.lightsailed.com">LightSail Education</a>, New York, New York, <small>April 2014 - June 2014</small></li>
 					<li>
 						<ul class="resume_tier_2">
-							<li>Created digital assets and designed UI/UX for an interactive, tablet-based literacy education platform for grades K-12, providing continuous data on student reading habits and comprehension.</li>
-							<li>LightSail software is presently used by tens of thousands of students and has been recognized by the Bill &amp; Melinda Gates Foundation.</li> 
+							<li>Designed digital assets and UI/UX for an interactive, tablet-based literacy education platform.</li>
+							<li>Developed new features through wireframes, visual design mockups, and high- delity prototypes.</li>
+							<li>Produced tools to provide continuous data on student reading habits and comprehension.</li>
 					</ul>
 					</li>
 				</ul>
@@ -54,7 +55,7 @@ title: Resume
 					<li><strong>QA Engineering Intern</strong>, <a href="http://www.fuzzproductions.com">Fuzz Productions</a>, New York, New York, <small>March 2014 - April 2014</small></li>
 					<li>
 						<ul class="resume_tier_2">
-							<li>Creating test strategies, developing and implementing automated test scripts, and manually testing multiple apps and websites in an Agile environment.</li>
+							<li>Created test strategies, developed and implemented automated test scripts, and manually tested multiple apps and websites in an Agile environment.</li>
 							<li>Client projects included Android and iOS apps for the New York Post and WeightTraining.com.</li>
 					</ul>
 					</li>

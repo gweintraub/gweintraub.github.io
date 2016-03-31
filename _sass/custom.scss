@@ -253,11 +253,14 @@ figcaption {
 ********* Portfolio CSS ******
 **************************/
 
-.overlay    {  background:rgba(0,0,0,.75);
-               padding:45px 0 66px 0;
-               opacity:0;
-               -webkit-transition: opacity .25s ease;
--moz-transition: opacity .25s ease;}
+.overlay {  
+  background:rgba(0,0,0,.75);
+  padding:45px 0 66px 0;
+  opacity:0;
+  -webkit-transition: opacity .25s ease;
+  -moz-transition: opacity .25s ease;
+}
 
 #.project:hover .overlay {
-               opacity:1;}
+  opacity:1;
+}

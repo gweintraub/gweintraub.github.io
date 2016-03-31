@@ -286,11 +286,11 @@ figcaption {
   width: 100%;
   height: 100%;
   padding: 130px 20px;
+  border-radius: 4px;
 }
 
 .box:hover .overbox { 
   opacity: .75; 
-  border-radius: 4px;
 }
 
 .box .overtext {

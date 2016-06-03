@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Put on your spacesuit and come pour some metal!
-img: /img/2016-06-03-bronze-casting.jpg
+title: Metal Pouring Time!
+image: /img/2016-06-03-bronze-casting.jpg
 ---
 
 For today's episode of "You Can't Do That In Your Brooklyn Apartment!" I have a throwback to work I could make when open space and open flames were bigger parts of my life. The topic du jour is lost-wax bronze casting, just like humans have been doing for almost 6000 years.

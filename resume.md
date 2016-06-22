@@ -136,10 +136,10 @@ title: Resume
 				<h1>Skills</h1>
 				<ul class="resume_tier_1">
 				<div class="resume-lists">
-					<li><strong>Programming Languages:</strong> Java // Processing // HTML5 // CSS3 // Arduino // JavaScript // Python</li>
-					<li><strong>Software:</strong> Adobe Photoshop, InDesign, Illustrator, Premiere // Autodesk Maya, Mudbox, Fusion 360 // // Rhinoceros // Vectorworks // SketchUp // EAGLE // Microsoft Office // Git </li>
+					<li><strong>Programming Languages:</strong> Java // Processing // HTML // CSS // Arduino // JavaScript // Python</li>
+					<li><strong>Software:</strong> Adobe Photoshop, InDesign, Illustrator, Premiere // Autodesk Maya, Mudbox, Fusion 360 // Rhinoceros // Solidworks // EAGLE // Git </li>
 					<li><strong>Fabrication:</strong> Additive Manufacting 3D Printing // Laser Cutting // CNC Milling // Woodworking // Metalworking &amp; Foundry // Circuit Design &amp; Prototyping // Welding // Mould Making </li>
-					<li><strong>Editorial:</strong> Typography // Print &amp; Digital Publishing // Copy Editing</li>
+					<li><strong>General</strong> UI/UX Design // Product Design // Art Direction // QA Testing // Typography // Copy Writing // Copy Editing</li>
 				</div>
 				</ul>
 			</div>

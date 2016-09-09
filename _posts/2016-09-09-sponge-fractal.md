@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Menger Sponge Fractal
-image: 
+image: /img/2016-09-09-sponge-fractal.gif
 ---
 
 I'm messing around with generative 3D models in Processing, by which I mean enjoying Dan Shiffman's YouTube channel. This cube sub-divides on <code>mousePressed()</code>, and it can go deeper than three levels, but that's not a bright idea on this computer. Code below the video.
 
-**Menger_Sponge_Fractal**
+
+
+**Menger Sponge Fractal**
 
 ```
 
@@ -87,5 +89,5 @@ I'm messing around with generative 3D models in Processing, by which I mean enjo
 	    popMatrix();
 	  }
 	}
-	
+
 ```

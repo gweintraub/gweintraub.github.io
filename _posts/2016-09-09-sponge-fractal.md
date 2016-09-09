@@ -8,6 +8,7 @@ I'm messing around with generative 3D models in Processing, by which I mean enjo
 
 **Menger_Sponge_Fractal**
 ```
+
 	//Adapted from Dan Shiffman's tutorials #codingrainbow
 	float a = 0;
 
@@ -47,6 +48,7 @@ I'm messing around with generative 3D models in Processing, by which I mean enjo
 
 **Box**
 ```
+
 	class Box {
 	  PVector pos;
 	  float r;

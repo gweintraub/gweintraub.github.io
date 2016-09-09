@@ -7,6 +7,7 @@ image:
 I'm messing around with generative 3D models in Processing, by which I mean enjoying Dan Shiffman's YouTube channel. This cube sub-divides on <code>mousePressed()</code>, and it can go deeper than three levels, but that's not a bright idea on this computer. Code below the video.
 
 **Menger_Sponge_Fractal**
+
 ```
 
 	//Adapted from Dan Shiffman's tutorials #codingrainbow
@@ -44,9 +45,11 @@ I'm messing around with generative 3D models in Processing, by which I mean enjo
 	  }
 	  a += 0.01;
 	}
+
 ```
 
 **Box**
+
 ```
 
 	class Box {
@@ -84,4 +87,5 @@ I'm messing around with generative 3D models in Processing, by which I mean enjo
 	    popMatrix();
 	  }
 	}
+	
 ```

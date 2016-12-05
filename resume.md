@@ -28,7 +28,7 @@ title: Resume
 			<h1>Experience</h1>
 
 				<ul class="resume_tier_1">
-					<li><strong>Software Engineer &em; Contract</strong>, <a href="http://www.qualitylogic.com/">QualityLogic</a>, Los Angeles, California &em; Remote, <small>July 2016 - Present</small></li>
+					<li><strong>Software Engineer &mdash; Contract</strong>, <a href="http://www.qualitylogic.com/">QualityLogic</a>, Los Angeles, California &mdash; Remote, <small>July 2016 - Present</small></li>
 					<li>
 						<ul class="resume_tier_2">
 							<li>Tested interoperability, compliance, and performance of emergent 3D-printing file standard.</li>
@@ -39,7 +39,7 @@ title: Resume
 				</ul>
 
 				<ul class="resume_tier_1">
-					<li><strong>Model Maker &amp; Production Technician</strong>, <a href="http://www.nrml.com">Normal</a>, New York, New York, <small>August 2014 - Present</small></li>
+					<li><strong>Production Technician</strong>, <a href="http://www.nrml.com">Normal</a>, New York, New York, <small>August 2014 - Present</small></li>
 					<li>
 						<ul class="resume_tier_2">
 							<li>Early team member, worked on design and manufacturing of 3D-printed, custom-fit earphones.</li>
@@ -52,7 +52,7 @@ title: Resume
 				
 
 				<ul class="resume_tier_1">
-					<li><strong>Junior UI/UX Designer</strong>, <a href="http://www.lightsailed.com">LightSail Education</a>, New York, New York, <small>April 2014 - June 2014</small></li>
+					<li><strong>Junior UI/UX Designer &mdash; Contract</strong>, <a href="http://www.lightsailed.com">LightSail Education</a>, New York, New York, <small>April 2014 - June 2014</small></li>
 					<li>
 						<ul class="resume_tier_2">
 							<li>Designed digital assets and UI/UX for an interactive, tablet-based literacy education platform.</li>
@@ -166,18 +166,18 @@ title: Resume
 						<ul class="resume_tier_2">
 							Recognized as graduating senior for consistent contribution to the co-curricular life of the college.
 						</ul>
-<!-- 					<li><strong>Student Opportunity Project Fund</strong>, Skidmore College, <small>Feb. 2012</small></li>
- -->				<li><strong>Creative Thought Matters Photography Contest, 1st Place</strong>, Skidmore College, <small>Nov. 2011</small></li>
+					<li><strong>Student Opportunity Project Fund</strong>, Skidmore College, <small>Feb. 2012</small></li>
+				<li><strong>Creative Thought Matters Photography Contest, 1st Place</strong>, Skidmore College, <small>Nov. 2011</small></li>
 					<li><strong>Jeffrey and Cynthia Treuhaft Fund For Art Technology</strong>, Skidmore College, <small>Nov. 2011</small></li>
 						<ul class="resume_tier_2">
 							Awarded to fund technology purchases for independently organized, inter-departmental thesis.
 						</ul>
-					<li><strong>Thoroughbred Athletic Honor Society &em; Varsity Rowing</strong>, Skidmore College, <small>Feb. 2009</small></li>
+					<li><strong>Thoroughbred Athletic Honor Society &mdash; Varsity Rowing</strong>, Skidmore College, <small>Feb. 2009</small></li>
 						<ul class="resume_tier_2">
 							Honor society recognizing academic achievements by student-athletes.
 						</ul>
-					<!-- <li><strong>Counselor of the Week</strong>, French Woods Festival of the Performing Arts, <small>Aug. 2007</small></li>
-					<li><strong>Write-On Scholarship, 1st Place</strong>, New England Patriots Charitable Foundation, <small>Dec. 2006</small></li> -->
+					<li><strong>Counselor of the Week</strong>, French Woods Festival of the Performing Arts, <small>Aug. 2007</small></li>
+					<li><strong>Write-On Scholarship, 1st Place</strong>, New England Patriots Charitable Foundation, <small>Dec. 2006</small></li>
 				</div>
 				</ul>
 			</div>

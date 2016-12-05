@@ -27,12 +27,23 @@ title: Resume
 			<div class="list_section">
 			<h1>Experience</h1>
 
-					<ul class="resume_tier_1">
+				<ul class="resume_tier_1">
+					<li><strong>Software Engineer &em; Contract</strong>, <a href="http://www.qualitylogic.com/">QualityLogic</a>, Los Angeles, California &em; Remote, <small>July 2016 - Present</small></li>
+					<li>
+						<ul class="resume_tier_2">
+							<li>Tested interoperability, compliance, and performance of emergent 3D-printing file standard.</li>
+							<li>Designed test cases to exercise the full breadth of variability allowed by the 3MF speci cation.</li> 
+							<li>Built protocols to provide pixel-precise analysis of printer slice data using printer API.</li>
+					</ul>
+					</li>
+				</ul>
+
+				<ul class="resume_tier_1">
 					<li><strong>Model Maker &amp; Production Technician</strong>, <a href="http://www.nrml.com">Normal</a>, New York, New York, <small>August 2014 - Present</small></li>
 					<li>
 						<ul class="resume_tier_2">
 							<li>Early team member, worked on design and manufacturing of 3D-printed, custom-fit earphones.</li>
-							<li>Optimized logistics for mass production, including part-tracking and shipping.</li> 
+							<li>Utilized rapid prototyping to create mass-customizable consumer products at scale.</li> 
 							<li>Refined manufacturing processes and produced measurable improvements in production time.</li>
 					</ul>
 					</li>
@@ -45,7 +56,7 @@ title: Resume
 					<li>
 						<ul class="resume_tier_2">
 							<li>Designed digital assets and UI/UX for an interactive, tablet-based literacy education platform.</li>
-							<li>Developed new features through wireframes, visual design mockups, and high- delity prototypes.</li>
+							<li>Developed new features through wireframes, visual design mockups, and high-fidelity prototypes.</li>
 							<li>Produced tools to provide continuous data on student reading habits and comprehension.</li>
 					</ul>
 					</li>
@@ -65,10 +76,8 @@ title: Resume
 					<li><strong>Editorial Assistant</strong>, <a href="http://www.mcmurry.com/">McMurry/TMG</a>, New York, New York, <small>May 2012 - Sept. 2013</small></li>
 					<li>
 						<ul class="resume_tier_2">
-							<li>Creative team support member, reporting to VP of Content.</li>
-							<li>Versatile responsibilities across content division, including editorial, design, and administrative roles.</li>
+							<li>Responsibilities across content division, including editorial, design, and administrative roles.</li>
 							<li>Copywriting, copy editing and InDesign composition of print and digital materials for national brands.</li>
-							<li>Managed invoicing and contracting with external vendors and talent.</li>
 					</ul>
 					</li>
 				</ul>
@@ -106,7 +115,7 @@ title: Resume
 				</ul>
 
 
-				<ul class="resume_tier_1">
+<!-- 				<ul class="resume_tier_1">
 					<li><strong>Sports Copy Editor</strong>, <a href="http://www.saratogian.com/">The Saratogian</a>, Saratoga Springs, New York, <small>Summer 2010, 2011</small></li>
 					<li>
 						<ul class="resume_tier_2">
@@ -126,20 +135,20 @@ title: Resume
 
 				<ul class="resume_tier_1">
 					<li><strong>Counselor</strong>, <a href="http://www.frenchwoods.com/">French Woods Festival of the Performing Arts</a>, Hancock, New York, <small>Summer 2007, 2008</small></li>
-				</ul>	
+				</ul>	 -->
 
 
 			</div>
 
 
 			<div class="list_section">
-				<h1>Skills</h1>
+				<h1>Proficiencies</h1>
 				<ul class="resume_tier_1">
 				<div class="resume-lists">
-					<li><strong>Programming Languages:</strong> Java // Processing // HTML // CSS // Arduino // JavaScript // Python</li>
-					<li><strong>Software:</strong> Adobe Photoshop, InDesign, Illustrator, Premiere // Autodesk Maya, Mudbox, Fusion 360 // Rhinoceros // Solidworks // EAGLE // Git </li>
-					<li><strong>Fabrication:</strong> Additive Manufacting 3D Printing // Laser Cutting // CNC Milling // Woodworking // Metalworking &amp; Foundry // Circuit Design &amp; Prototyping // Welding // Mould Making </li>
-					<li><strong>General</strong> UI/UX Design // Product Design // Art Direction // QA Testing // Typography // Copy Writing // Copy Editing</li>
+					<li><strong>Programming Languages:</strong> Java, Processing, HTML, CSS, Arduino, JavaScript, Python</li>
+					<li><strong>Software:</strong> Adobe Photoshop, InDesign, Illustrator, Premiere, Autodesk Maya, Mudbox, Fusion 360, Rhinoceros, Solidworks, EAGLE</li>
+					<li><strong>Fabrication:</strong> Additive Manufacting 3D Printing, Laser Cutting, CNC Milling, Woodworking, Metalworking &amp; Foundry, Circuit Design &amp; Prototyping</li>
+					<li><strong>General</strong> UI/UX Design, Product Design, Copy Editing, Copywriting, Typography, QA Testing</li>
 				</div>
 				</ul>
 			</div>
@@ -149,11 +158,24 @@ title: Resume
 				<h1>Awards</h1>
 				<ul class="resume_tier_1">
 				<div class="resume-lists">
-					<li><strong>Red Burns Scholarship</strong>, Tisch School of the Arts, <small>July 2015</small></li>
-					<li><strong>SGA Student Leadership Award</strong>, Skidmore College, <small>May 2012</small></li>
-					<li><strong>Student Opportunity Project Fund</strong>, Skidmore College, <small>Feb. 2012</small></li>
-					<li><strong>Creative Thought Matters Photography Contest, 1st Place</strong>, Skidmore College, <small>Nov. 2011</small></li>
+					<li><strong>Red Burns Scholarship Fund</strong>, Tisch School of the Arts, <small>July 2015</small></li>
+						<ul class="resume_tier_2">
+							Founders’ scholarship awarded to second year students recognizing academic achievement.
+						</ul>
+					<li><strong>SGA Senior Leadership Award</strong>, Skidmore College, <small>May 2012</small></li>
+						<ul class="resume_tier_2">
+							Recognized as graduating senior for consistent contribution to the co-curricular life of the college.
+						</ul>
+<!-- 					<li><strong>Student Opportunity Project Fund</strong>, Skidmore College, <small>Feb. 2012</small></li>
+ -->				<li><strong>Creative Thought Matters Photography Contest, 1st Place</strong>, Skidmore College, <small>Nov. 2011</small></li>
 					<li><strong>Jeffrey and Cynthia Treuhaft Fund For Art Technology</strong>, Skidmore College, <small>Nov. 2011</small></li>
+						<ul class="resume_tier_2">
+							Awarded to fund technology purchases for independently organized, inter-departmental thesis.
+						</ul>
+					<li><strong>Thoroughbred Athletic Honor Society &em; Varsity Rowing</strong>, Skidmore College, <small>Feb. 2009</small></li>
+						<ul class="resume_tier_2">
+							Honor society recognizing academic achievements by student-athletes.
+						</ul>
 					<!-- <li><strong>Counselor of the Week</strong>, French Woods Festival of the Performing Arts, <small>Aug. 2007</small></li>
 					<li><strong>Write-On Scholarship, 1st Place</strong>, New England Patriots Charitable Foundation, <small>Dec. 2006</small></li> -->
 				</div>

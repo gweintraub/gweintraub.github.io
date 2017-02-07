@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doing Nothing With The Trammel Of Archimedes
-image: /img/22017-01-12-do-nothing.jpg
+image: /img/2017-01-12-do-nothing.jpg
 ---
 
 Years ago, my uncle gave me a wooden toy, consisting of a main block with two perpendicular channels cut through. There are shuttles confined to the channels, and a lever is connected to both shuttles with fixed pivots. It's a classic "do-nothing machine," and it's sat on my desk for many years. Today I know it's otherwise known as a trammel of Archimedes, and contrary to the do-nothing name, the end of the lever actually follows an elliptical path, which can be quite useful. I decided to simulate one in Fusion to further practice mechanisms. There is, of course, math behind this, but I actually modeled this from life, using calipers to copy my desk toy. Mission accomplished.

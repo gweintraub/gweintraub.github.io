@@ -32,7 +32,7 @@ title: Resume
 					<li>
 						<ul class="resume_tier_2">
 							<li>Tested interoperability, compliance, and performance of emergent 3D-printing file standard.</li>
-							<li>Designed test cases to exercise the full breadth of variability allowed by the 3MF speci cation.</li> 
+							<li>Designed test cases to exercise the full breadth of variability allowed by the 3MF specification.</li> 
 							<li>Built protocols to provide pixel-precise analysis of printer slice data using printer API.</li>
 					</ul>
 					</li>

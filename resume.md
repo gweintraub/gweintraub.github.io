@@ -28,7 +28,7 @@ title: Resume
 			<h1>Experience</h1>
 
 				<ul class="resume_tier_1">
-					<li><strong>Software Engineer &mdash; Contract</strong>, <a href="http://www.qualitylogic.com/">QualityLogic</a>, Los Angeles, California &mdash; Remote, <small>July 2016 - Present</small></li>
+					<li><strong>Software Engineer &mdash; Contract</strong>, <a href="http://www.qualitylogic.com/">QualityLogic</a>, Los Angeles, California &mdash; Remote, <small>2016</small></li>
 					<li>
 						<ul class="resume_tier_2">
 							<li>Tested interoperability, compliance, and performance of emergent 3D-printing file standard.</li>
@@ -39,7 +39,7 @@ title: Resume
 				</ul>
 
 				<ul class="resume_tier_1">
-					<li><strong>Production Technician</strong>, <a href="http://www.nrml.com">Normal</a>, New York, New York, <small>August 2014 - Present</small></li>
+					<li><strong>Production Technician</strong>, <a href="http://www.nrml.com">Normal</a>, New York, New York, <small>2014 - 2015</small></li>
 					<li>
 						<ul class="resume_tier_2">
 							<li>Early team member, worked on design and manufacturing of 3D-printed, custom-fit earphones.</li>
@@ -52,7 +52,7 @@ title: Resume
 				
 
 				<ul class="resume_tier_1">
-					<li><strong>Junior UI/UX Designer &mdash; Contract</strong>, <a href="http://www.lightsailed.com">LightSail Education</a>, New York, New York, <small>April 2014 - June 2014</small></li>
+					<li><strong>Junior UI/UX Designer &mdash; Contract</strong>, <a href="http://www.lightsailed.com">LightSail Education</a>, New York, New York, <small>2014</small></li>
 					<li>
 						<ul class="resume_tier_2">
 							<li>Designed digital assets and UI/UX for an interactive, tablet-based literacy education platform.</li>
@@ -63,7 +63,7 @@ title: Resume
 				</ul>
 
 				<ul class="resume_tier_1">
-					<li><strong>QA Engineering Intern</strong>, <a href="http://www.fuzzproductions.com">Fuzz Productions</a>, New York, New York, <small>March 2014 - April 2014</small></li>
+					<li><strong>QA Engineering Intern</strong>, <a href="http://www.fuzzproductions.com">Fuzz Productions</a>, New York, New York, <small>2014</small></li>
 					<li>
 						<ul class="resume_tier_2">
 							<li>Created test strategies, developed and implemented automated test scripts, and manually tested multiple apps and websites in an Agile environment.</li>
@@ -73,7 +73,7 @@ title: Resume
 				</ul>
 
 				<ul class="resume_tier_1">
-					<li><strong>Editorial Assistant</strong>, <a href="http://www.mcmurry.com/">McMurry/TMG</a>, New York, New York, <small>May 2012 - Sept. 2013</small></li>
+					<li><strong>Editorial Assistant</strong>, <a href="http://www.mcmurry.com/">McMurry/TMG</a>, New York, New York, <small>2012 - 2014</small></li>
 					<li>
 						<ul class="resume_tier_2">
 							<li>Responsibilities across content division, including editorial, design, and administrative roles.</li>
@@ -83,7 +83,7 @@ title: Resume
 				</ul>
 
 				<ul class="resume_tier_1">
-					<li><strong>Editor-in-Chief, Artistic Director, Webmaster</strong>, <a href="http://www.skidmorenews.com/">The Skidmore News</a>, <small>Sept. 2008 - May 2012</small></li>
+					<li><strong>Editor-in-Chief, Artistic Director, Webmaster</strong>, <a href="http://www.skidmorenews.com/">The Skidmore News</a>, <small>2008 - 2012</small></li>
 					<li>
 						<ul class="resume_tier_2">
 						<li>Consistently met weekly and daily deadlines while publishing print and digital content.</li>
@@ -95,7 +95,7 @@ title: Resume
 				</ul>
 
 				<ul class="resume_tier_1">
-					<li><strong>Master Carpenter</strong>, <a href="http://www.skidmore.edu/academics/theater/">Skidmore College Theater Department</a>, <small>Dec. 2008 - May 2012</small></li>
+					<li><strong>Master Carpenter</strong>, <a href="http://www.skidmore.edu/academics/theater/">Skidmore College Theater Department</a>, <small>2008 - 2012</small></li>
 					<li>
 						<ul class="resume_tier_2">
 						<li>Trained and supervised student volunteers in tool usage and shop procedure.</li>
@@ -105,7 +105,7 @@ title: Resume
 				</ul>
 
 				<ul class="resume_tier_1">
-					<li><strong>Communication Design Teaching Assistant</strong>, <a href="http://www.skidmore.edu/art/">Skidmore College Art Department</a>, <small>Sept. 2011 - May 2012</small></li>
+					<li><strong>Communication Design Teaching Assistant</strong>, <a href="http://www.skidmore.edu/art/">Skidmore College Art Department</a>, <small>2011 - 2012</small></li>
 					<li>
 						<ul class="resume_tier_2">
 						<li>Tutored students in principles of design, composition and typography.</li>

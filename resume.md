@@ -86,9 +86,9 @@ title: Resume
 					<li><strong>Editor-in-Chief, Artistic Director, Webmaster</strong>, <a href="http://www.skidmorenews.com/">The Skidmore News</a>, <small>2008 - 2012</small></li>
 					<li>
 						<ul class="resume_tier_2">
-						<li>Consistently met weekly and daily deadlines while publishing print and digital content.</li>
+						<li>Edited and managed all aspects of weekly student print and digital publication.</li>
 						<li>Managed staff of approximately 20, and interfaced with senior college leadership.</li>
-						<li>Over four years, trained and mentored more than 30 students in journalism, editing and design.</li>
+						<li>Over four years, trained and mentored dozens of students in journalism, editing and design.</li>
 						<li>Rebranded entire publication including visual design of print and web editions.</li>
 					</ul>
 					</li>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scenic Artistry
-image: /img/2014-03-01-scenic-images.png
+image: /img/2014-03-01-scenic-images.jpg
 ---
 
 Assorted images from my time working in theater scene shops. Most samples are from my work as master carpenter at Skidmore College, as well as time spent as a carpenter at the Opera Saratoga Festival.

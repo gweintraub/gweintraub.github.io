@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 ---
+<img src="/img/profile.png" alt="Profile image">
 
 <div class="resume">
 			<div class="list_section">

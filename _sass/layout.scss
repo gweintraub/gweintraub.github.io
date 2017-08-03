@@ -22,6 +22,10 @@ body {
 
 /* Navigation */
 
+#nav {
+  z-index: 1000;
+}
+
 #nav, #nav-left { 
   a {
     display: block;

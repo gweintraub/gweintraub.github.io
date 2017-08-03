@@ -1,11 +1,11 @@
 # Site settings
 title: Gabe Weintraub
 description:
-url: "http://www.gabeweintraub.com"
+url: "https://www.gabeweintraub.com"
 author:
   name: "Gabe Weintraub"
   email: "gabe.weintraub+cf@gmail.com"
-  url: "http://www.gabeweintraub.com"
+  url: "https://www.gabeweintraub.com"
 
 
 # Build settings

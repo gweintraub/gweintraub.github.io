@@ -22,10 +22,6 @@ body {
 
 /* Navigation */
 
-#nav {
-  z-index: 1000;
-}
-
 #nav, #nav-left { 
   a {
     display: block;
@@ -58,6 +54,7 @@ body {
 
 #nav.menu-open {
   @include open(-14rem);
+  z-index: 1000;
 }
 
 #nav-left.menu-open-left {
@@ -80,7 +77,7 @@ body {
 #nav-menu {
   @include icon-position(right);
   position: fixed;
-
+  z-index: 2000;
 }
 
 #nav-menu-left {

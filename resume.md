@@ -36,7 +36,7 @@ title: Resume
 					</li>
 				</ul>
 				<ul class="resume_tier_1">
-					<li><strong>Designer &amp; Fabricator</strong>, <a href="http://www.thefactorynyc.com/">The Factory NYC</a>, Brooklyn, New York<small>2017</small></li>
+					<li><strong>Designer &amp; Fabricator</strong>, <a href="http://www.thefactorynyc.com/">The Factory NYC</a>, Brooklyn, New York, <small>2017</small></li>
 					<li>
 						<ul class="resume_tier_2">
 							<li>Produced scenery and installations, and created functional props using custom electronics and micro-controller programming for high-visibility retail, fashion and marketing events. Operated, programmed, and maintained CNC router.</li>

@@ -29,15 +29,17 @@ title: Resume
 					<li><strong>Boston Dynamics</strong>, <a href="http://www.bostondynamics.com/">Boston Dynamics</a>, Waltham, Massachusetts, <small>2019 - Present</small></li>
 					<li>
 						<ul class="resume_tier_2">
-						<li>Leads additive manufacturing within a world-class rapid prototyping facility, delivering 22,000+ polymer and metal parts annually across 4,000+ unique orders to support R&D and low-volume productionof advanced mobile robotics. Oversees all fleet operations, including programming, scheduling, and maintenance, across MJF, DMLS, FDM, SLA, and post-processing systems.</li>
-						<li>Fabricated structural metal body components for multiple generations of Atlas humanoid platform, owning the process end-to-end from print strategy through finishing — enabled by qualifying new Scalmalloy print parameters on an EOS M290 through DoE-based testing and third-party mechanical validation</li> 
-						<li>Built an internal “click-to-buy” web app for automated quoting and order tracking, delivering a self-service platform that scaled to absorb a 3x increase in annual part volume and more than 2x increase in orders.</li>
-						<li>Developed process parameters to integrate chemical vapor smoothing into production, improving surface finish and eliminating particulate shedding for end-use polymer parts.</li>
-						<li>Defined technical and infrastructure requirements for a fleet management platform to monitor, schedule, and automate a distributed FDM print farm, in collaboration with IT and facilities.</li>
-						<li>
-						Wrote operational documentation and onboarded an incoming AM technologist to full independence, maintaining uninterrupted production coverage.
-						</li>
-					</ul>
+							<li>Leads additive manufacturing within a world-class rapid prototyping facility, delivering 22,000+ polymer and metal parts annually across 4,000+ unique orders to support R&D and low-volume productionof advanced mobile robotics. Oversees all fleet operations, including programming, scheduling, and maintenance, across MJF, DMLS, FDM, SLA, and post-processing systems.</li>
+						</ul>
+						<ul class="resume_tier_3">
+							<li>Fabricated structural metal body components for multiple generations of Atlas humanoid platform, owning the process end-to-end from print strategy through finishing — enabled by qualifying new Scalmalloy print parameters on an EOS M290 through DoE-based testing and third-party mechanical validation</li> 
+							<li>Built an internal “click-to-buy” web app for automated quoting and order tracking, delivering a self-service platform that scaled to absorb a 3x increase in annual part volume and more than 2x increase in orders.</li>
+							<li>Developed process parameters to integrate chemical vapor smoothing into production, improving surface finish and eliminating particulate shedding for end-use polymer parts.</li>
+							<li>Defined technical and infrastructure requirements for a fleet management platform to monitor, schedule, and automate a distributed FDM print farm, in collaboration with IT and facilities.</li>
+							<li>
+							Wrote operational documentation and onboarded an incoming AM technologist to full independence, maintaining uninterrupted production coverage.
+							</li>
+						</ul>
 					</li>
 				</ul>
 				<ul class="resume_tier_1">

@@ -3,37 +3,37 @@
 // -- Put custom style under this point -- //
 
 .post-headline h2 {
-	color: #981B1E;
+  color: #981B1E;
 }
 
 #copyright {
-	font-family: 'Source Sans Pro', sans-serif;
-  	letter-spacing: 0.01em;
-  	font-weight: 300;
-    font-size: smaller;
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: 0.01em;
+  font-weight: 300;
+  font-size: smaller;
 }
 
 
 #credits {
-	font-size: .75em;
-	font-family: 'Source Sans Pro', sans-serif;
-  	letter-spacing: 0.01em;
-  	font-weight: 200;
+  font-size: .75em;
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: 0.01em;
+  font-weight: 200;
 }
 
-#credits a{
-	font-weight: 200;
+#credits a {
+  font-weight: 200;
 }
 
 #credits a:hover {
-	text-decoration: underline;
-	color: #FDFDFD;
+  text-decoration: underline;
+  color: #FDFDFD;
 }
 
 .resume h1 {
-	font-size: 1.5em;
-	color: #981B1E;
-	text-transform: uppercase;
+  font-size: 1.5em;
+  color: #981B1E;
+  text-transform: uppercase;
 }
 
 .resume .resume_tier_1 {
@@ -51,66 +51,69 @@
   margin-bottom: 10px;
 }
 
+.reume .resume_tier_3 {
+  list-style-type: disc;
+}
 
 // -- Form style -- //
 
 .floating-label-form-group {
-    position: relative;
-    margin-bottom: 0;
-    padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: .5em;
+  border-bottom: 1px solid #eee;
 }
 
 .floating-label-form-group input,
 .floating-label-form-group textarea {
-    z-index: 1;
-    position: relative;
-    padding-right: 0;
-    padding-left: 0;
-    border: 0;
-    border-radius: 0;
-    font-size: 1.5em;
-    background: 0 0;
-    box-shadow: none;
-    resize: none;
-    outline: 0;
-    width: 100%;
+  z-index: 1;
+  position: relative;
+  padding-right: 0;
+  padding-left: 0;
+  border: 0;
+  border-radius: 0;
+  font-size: 1.5em;
+  background: 0 0;
+  box-shadow: none;
+  resize: none;
+  outline: 0;
+  width: 100%;
 }
 
 .floating-label-form-group label {
-    display: block;
-    z-index: 0;
-    position: relative;
-    top: 2em;
-    margin: 0;
-    font-size: .85em;
-    line-height: 1.764705882em;
-    vertical-align: middle;
-    vertical-align: baseline;
-    opacity: 0;
-    -webkit-transition: top .3s ease,opacity .3s ease;
-    -moz-transition: top .3s ease,opacity .3s ease;
-    -ms-transition: top .3s ease,opacity .3s ease;
-    transition: top .3s ease,opacity .3s ease;
+  display: block;
+  z-index: 0;
+  position: relative;
+  top: 2em;
+  margin: 0;
+  font-size: .85em;
+  line-height: 1.764705882em;
+  vertical-align: middle;
+  vertical-align: baseline;
+  opacity: 0;
+  -webkit-transition: top .3s ease, opacity .3s ease;
+  -moz-transition: top .3s ease, opacity .3s ease;
+  -ms-transition: top .3s ease, opacity .3s ease;
+  transition: top .3s ease, opacity .3s ease;
 }
 
 .floating-label-form-group-with-value label {
-    top: 0;
-    opacity: 1;
+  top: 0;
+  opacity: 1;
 }
 
 .floating-label-form-group-with-focus label {
-    color: #981B1E;
+  color: #981B1E;
 }
 
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #eee;
+  border-top: 1px solid #eee;
 }
 
 .resume a {
   text-decoration: none;
-  color: rgb(152,27,30);
+  color: rgb(152, 27, 30);
 }
 
 .resume .resume_tier_1 a:hover {
@@ -118,73 +121,74 @@ form .row:first-child .floating-label-form-group {
 }
 
 .resume .resume-lists li {
-	padding-bottom: 5px;
+  padding-bottom: 5px;
 }
 
-.submit input {  
-    width: auto;  
-    padding: 9px 15px;  
-    background: rgb(76,77,79);
-    border: 0;  
-    font-size: 1em;  
-    color: #FFFFFF;  
-    } 
+.submit input {
+  width: auto;
+  padding: 9px 15px;
+  background: rgb(76, 77, 79);
+  border: 0;
+  font-size: 1em;
+  color: #FFFFFF;
+}
 
 .submit input:hover {
-  background: rgb(152,27,30);
+  background: rgb(152, 27, 30);
 }
 
 
 input:-webkit-autofill {
-    -webkit-box-shadow: 0 0 0px 1000px white inset;
+  -webkit-box-shadow: 0 0 0px 1000px white inset;
 }
 
 
 // splash page //
 #splash {
-	margin: 30% auto 30%;
-	width: 100%;
+  margin: 30% auto 30%;
+  width: 100%;
 }
 
 .logo {
-    width:60%;
-    float:left;
-    
+  width: 60%;
+  float: left;
+
 }
 
 .logo img {
-	padding: 30px 0 0 0;
-	width: 85%;
+  padding: 30px 0 0 0;
+  width: 85%;
 }
 
 .splash-menu {
-	width:40%;
-    float:right;
-    padding:10px;
-    padding-left: 35px;
-    border-left: rgb(76,77,79);
-    border-left-width: 1px;
-    border-left-style: solid;
+  width: 40%;
+  float: right;
+  padding: 10px;
+  padding-left: 35px;
+  border-left: rgb(76, 77, 79);
+  border-left-width: 1px;
+  border-left-style: solid;
 }
 
 .splash-menu ul {
-    margin-bottom: 0;
+  margin-bottom: 0;
 
 }
 
-.splash-menu li{
-	list-style-type: none;
-	text-transform: uppercase;
+.splash-menu li {
+  list-style-type: none;
+  text-transform: uppercase;
 }
 
-.splash-menu li a:hover{
-	text-decoration: underline;
+.splash-menu li a:hover {
+  text-decoration: underline;
 }
 
-sup, sub {
-   vertical-align: baseline;
-   position: relative;
-   top: -0.4em;
+sup,
+sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
 }
 
 .footnotes ol {
@@ -198,15 +202,15 @@ sup, sub {
 
 .footnotes ol li p {
   font-size: initial;
-  display: inline-block; 
+  display: inline-block;
   vertical-align: text-top;
 }
 
 hr {
-    height: 1px;
-    background: rgb(76,77,79);
-    width: 75%;
-    margin-bottom: 1em;
+  height: 1px;
+  background: rgb(76, 77, 79);
+  width: 75%;
+  margin-bottom: 1em;
 }
 
 figure {
@@ -226,7 +230,8 @@ figcaption {
   color: #981B1E;
 }
 
-.about ul, .about li {
+.about ul,
+.about li {
   padding: 0;
   list-style: none;
 }
@@ -274,7 +279,7 @@ figcaption {
 }
 
 .box .overbox {
-  background-color: rgba(152,27,30,.75);
+  background-color: rgba(152, 27, 30, .75);
   position: absolute;
   top: 0;
   left: 0;
@@ -296,8 +301,8 @@ figcaption {
   color: #fff;
 }
 
-.box:hover .overbox { 
-  opacity: 1; 
+.box:hover .overbox {
+  opacity: 1;
 }
 
 .box .overtext {

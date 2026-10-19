@@ -8,30 +8,46 @@ title: Resume
 			<div class="list_section">
 				<h1>Summary</h1>
 				<ul class ="resume_tier_1">
-					<li>Versatile and multi-faceted additive manufacturing expert with 5 years industry experience and a proven track record leading and executing research and development for start-up stage design and technology companies. Offers a unique blend of technical engineering, visual and conceptual design, and hands-on fabrication expertise, combined with communications and marketing experience. Leverages design thinking and an interdisciplinary approach to tackle new challenges, solve problems and develop solutions that contribute to an organization’s success. A trusted partner to cross-functional teams and company leadership, and is a strong communicator who bridges the gap between creatives, technology and business. </li>
+					<li>Versatile additive manufacturing specialist with more than 12 years of industry experience across printer manufacturers, industrial users, and mass-customization brands. Built on a foundation in printer R&D, expertise centers on production-scale operation and DfAM across metal and polymer applications. Acts as internal subject matter expert, proactively identifying and vetting emerging AM technologies to advise crossfunctional teams and advance product innovation. Grounded in design, hands-on fabrication, and engineering, this multidisciplinary perspective unites creative problem-solving with rigorous technical execution. </li>
 				</ul>
 			</div>
 			<div class="list_section">
 				<h1>Skills</h1>
 				<ul class="resume_tier_1">
 				<div class="resume-lists">
-					<li><strong>3D Printing Technologies:</strong> Bound Metal Deposition, Multi Jet Fusion, Binder Jetting, FDM/FFF, Stereolithography</li>
-					<li><strong>Creative Expertise:</strong> Product Design, UX/UI Design, 3D Modeling, Copywriting, Copy Editing, , Woodworking, Manual & CNC Machining</li>
-					<li><strong>Technical Skills:</strong> Solidworks, Materialise Magics, Adobe Photoshop, InDesign &amp; Illustrator, QA Testing, Arduino, Python, G-Code, Design of Experiments</li>
+					<li><strong>3D Printing Technologies:</strong> Direct Metal Laser Sintering,Bound Metal Deposition, Multi Jet Fusion, Binder Jetting, Fused Deposition Modeling, Stereolithography, Chemical Vapor Smoothing</li>
+					<li><strong>Software:</strong> Materialise Magics, Solidworks, Rhino, Grasshopper, Fusion 360, Adobe Photoshop, InDesign &amp; Illustrator</li>
+					<li><strong>Technical Skills:</strong> Design of Experiments, Infrastructure Planning, QA Testing, JavaScript, Python, Embedded Systems, AI-Assisted Development</li>
+					<li><strong>Creative Skills: 3D Modeling, Visual Design, Editing &amp; Copywriting, General Fabrication, CNC Machining, Laser Cutting</strong> 
+					</li>
 				</div>
 				</ul>
 			</div>
 			<div class="list_section">
 				<h1>Professional Experience</h1>
 				<ul class="resume_tier_1">
+					<li><strong>Boston Dynamics</strong>, <a href="http://www.bostondynamics.com/">Boston Dynamics</a>, Waltham, Massachusetts, <small>2019 - Present</small></li>
+					<li>
+						<ul class="resume_tier_2">
+						<li>Leads additive manufacturing within a world-class rapid prototyping facility, delivering 22,000+ polymer and metal parts annually across 4,000+ unique orders to support R&D and low-volume productionof advanced mobile robotics. Oversees all fleet operations, including programming, scheduling, and maintenance, across MJF, DMLS, FDM, SLA, and post-processing systems.</li>
+						<li>Fabricated structural metal body components for multiple generations of Atlas humanoid platform, owning the process end-to-end from print strategy through finishing — enabled by qualifying new Scalmalloy print parameters on an EOS M290 through DoE-based testing and third-party mechanical validation</li> 
+						<li>Built an internal “click-to-buy” web app for automated quoting and order tracking, delivering a self-service platform that scaled to absorb a 3x increase in annual part volume and more than 2x increase in orders.</li>
+						<li>Developed process parameters to integrate chemical vapor smoothing into production, improving surface finish and eliminating particulate shedding for end-use polymer parts.</li>
+						<li>Defined technical and infrastructure requirements for a fleet management platform to monitor, schedule, and automate a distributed FDM print farm, in collaboration with IT and facilities.</li>
+						<li>
+						Wrote operational documentation and onboarded an incoming AM technologist to full independence, maintaining uninterrupted production coverage.
+						</li>
+					</ul>
+					</li>
+				</ul>
+				<ul class="resume_tier_1">
 					<li><strong>Engineering Technician</strong>, <a href="http://www.desktopmetal.com/">Desktop Metal</a>, Burlington, Massachusetts, <small>2017 - 2019</small></li>
 					<li>
 						<ul class="resume_tier_2">
-						<li>Hired to provide technical and production support to application engineers for this start-up 3D printing system developer. Rapidly became expert user and lead technician, and a critical resource for product, marketing and process engineering teams. Designed models, created prototype parts, and identified and isolated bugs across hardware, software, and firmware for alpha-stage printers.</li>
-						<li>Selected as first employee to initiate a new product venture, managing initial hardware bring-up, safety analysis, and validation testing. Collaborated with senior researchers to design and conduct experiments, and guided UX and industrial design under an aggressive timeline.</li> 
-						<li>Built critical in-house prototyping resource on HP MJF 4200 3D printer, producing hundreds of parts on a bi-weekly basis, enabling faster in-house supply line and leading to reduced prototyping expenses.</li>
-						<li>Created initial operational settings profile for a high-resolution nozzle as an enhanced feature for a critical product, leading to significant positive impact on successful Series E funding.</li>
-						<li>Designed experiments and data collection system, resulting in measurable product refinements that improved part success rates with end users.</li>
+						<li>Hired to support development of alpha-stage bound metal 3D printers, advanced into process engineering, and became a key resource across technical, product, and marketing teams. Eventually selected as sole technician to spin-up a new product line based on adapting third-party hardware to the company’s binder-jetting process.</li>
+						<li>Led hands-on bring-up of a new metal AM product line, reporting directly to the CTO. Built out lab infrastructure to meet metal-powder safety requirements, designed and executed on-printer experiments to validate trial binder agents, and partnered with an overseas hardware team to ship the product to market as the DM Shop System.</li> 
+						<li> Became the company’s primary Multi Jet Fusion technician, building an in-house prototyping pipeline and training additional operators in machine maintenance and job programming.</li>
+						<li>Trained in DoE methodology, designing and executing formal experiments to refine print process variables. Developed the parameter set for a high-resolution 150-micron nozzle</li>
 					</ul>
 					</li>
 				</ul>
@@ -107,32 +123,10 @@ title: Resume
 				<h1>Certifications &amp; Awards</h1>
 				<ul class="resume_tier_1">
 				<div class="resume-lists">
+					<li><strong>ASTM Machine Operator Certification, LPBF For Metal AM</strong>, ASTM International, <small>March 2023</small></li>
+					</li>
+					<li><strong>Peak Power Award, Employee Excellence</strong>, Boston Dynamics, <small>September 2020</small></li>
 					<li><strong>Advanced Operation Certification, HP Multi Jet Fusion 4200 Series 3D Printing System</strong>, Hewlett Packard, <small>June 2018</small></li>
-						<ul class="resume_tier_2">Certified to operate, maintain, and troubleshoot HP Multi Jet Fusion 3D Printers.</ul>
-					<li><strong>Red Burns Scholarship Fund</strong>, Tisch School of the Arts, <small>July 2015</small></li>
-						<ul class="resume_tier_2">
-							Founders’ scholarship awarded to second year students recognizing academic achievement.
-						</ul>
-					<li><strong>SGA Senior Leadership Award</strong>, Skidmore College, <small>May 2012</small></li>
-						<ul class="resume_tier_2">
-							Recognized as graduating senior for consistent contribution to the co-curricular life of the college.
-						</ul>
 				</div>
 				</ul>
 			</div>
-
-			<!-- <div class="list_section">
-				<h1>Exhibitions</h1>
-				<ul class="resume_tier_1">
-					<li><b>Senior Thesis Exhibition</b>, <a href="http://tang.skidmore.edu/">Frances Young Tang Teaching Museum and Art Gallery</a>, Skidmore College, <small>May 2012</small></li>
-					<li><b>Juried Student Exhibition</b>, <a href="http://www.skidmore.edu/schick/">Schick Art Gallery</a>, Skidmore College, <small>Feb. 2012</small></li>
-					<li>
-						<ul class="resume_tier_2">
-							<li>Juried by Deborah Zlotsky</li>
-						</ul>
-					</li>
-					<li><b>A Resolution of the Arts and Sciences</b>, <a href="http://www.skidmore.edu/schick/">Schick Art Gallery</a>, Skidmore College, <small>Oct. 2011</small></li>
-				</ul>
-			</div> -->
-
-		</div>
